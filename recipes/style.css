@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'circe-rounded' ;
+    src: url(fonts/CirceRounded-Bold.otf);
+}
+
+* {
+    font-family: 'circe-rounded', sans-serif;
+    font-size: 16px;
+}
