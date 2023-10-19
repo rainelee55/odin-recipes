@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'futura' ;
+    src: url(/recipes/fonts/futura/futura\ medium\ condensed\ bt.ttf) format('truetype');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'futura' ;
+    src: url(/recipes/fonts/futura/Futura\ Bold\ font.ttf) format('truetype');
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'circe-rounded' ;
+    src: url(/recipes/fonts/CirceRounded-Bold.otf);
+}
+body {
+    background-color: #8F8F8F;
+}
+h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;    
+    font-weight: bold;
+}
+ul {
+    text-align: left;
+    font-family: 'circe-rounded';
+    font-weight: normal;
+}
